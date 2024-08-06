@@ -1,0 +1,14 @@
+tqdm
+librosa
+PySDL2
+numpy
+pillow
+sounddevice
+python-rtmidi
+mido
+pedalboard
+sf2utils
+hjson
+munch
+pydub
+

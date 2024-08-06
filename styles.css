@@ -1,0 +1,32 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#dropArea {
+    width: 100%;
+    max-width: 600px;
+    height: 200px;
+    border: 2px dashed #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+}
+
+#dropArea:hover {
+    background-color: #333333;
+}
+
+#dropArea:active {
+    background-color: #555555;
+}

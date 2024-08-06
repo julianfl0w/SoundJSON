@@ -1,0 +1,21 @@
+*.egg-info
+build
+__pycache__
+examples
+SoundPickle/first_region.mp3
+SoundJSON/sfz_test/Harp.json.gold
+SoundJSON/sfz_test/Harp.json.dummy
+SoundJSON/sfz_test/Harp.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel2_6.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel2_5.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel2_4.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel2_3.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel2_2.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel2_1.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel1_6.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel1_5.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel1_4.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel1_3.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel1_2.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel1_1.json
+SoundJSON/sf2_test/Guitar_Roland Steel Guitar/SoloSteel1_1.json.gold
