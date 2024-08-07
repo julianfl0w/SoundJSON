@@ -3,9 +3,10 @@ import json
 import os
 import numpy as np
 testdirs = ["sf2_test", "sfz_test"]
+testdirs = ["sf2_test"]
 result = {}
 for testdir in testdirs:
-    converted = sound_json.convertFile(testdir, compress = False)
+    converted = sound_json.convertFile(testdir, compress = True)
     result.update(converted)
 
 for k, v in result.items():
@@ -22,5 +23,17 @@ for k, v in result.items():
 print("result")
 print(json.dumps(retdict, indent=2))
 
-audioData, sampleRate = sound_json.b642buffer(result["sfz_test/Harp.sfz"]["regions"][0]["audioData"])
+def testRegions():
+    for instname, inst in result.items():
+        regions = inst["key2samples"]
 
+        regions = regions[60]
+
+        for region in regions:
+            print(region)
+            samples = inst["samples"]
+            thisSample = samples[region["sampleNo"]]
+            print(thisSample["gain"])
+            audioData, sampleRate = sound_json.b642buffer(thisSample["audioData"])
+            print(np.std(audioData))
+            print(np.max(audioData))

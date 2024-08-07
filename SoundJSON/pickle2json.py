@@ -3,7 +3,7 @@ import sys
 import json
 here = os.path.dirname(__file__)
 sys.path.insert(0,os.path.join(here, ".."))
-import sound_pickle as sp
+import SoundJSON.sound_json as sp
 
 def pickle2json(filename):
     a = sp.fromPickle(filename)
