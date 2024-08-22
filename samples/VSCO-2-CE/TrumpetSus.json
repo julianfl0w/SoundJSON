@@ -1,0 +1,34 @@
+{
+  "compress": false,
+  "compressDB": 40,
+  "compressRate": 4,
+  "fillIn": true,
+  "loop": true,
+  "xfade": true,
+  "transpose": 0,
+  "guiVolume": 1,
+  "percussion": false,
+  "veloSensitive": true,
+  "normalize": true,
+  "trimDB": 40,
+  "volume": 0.5,
+  "attackLenSeconds": 0.01,
+  "sustainLenSeconds": 60,
+  "releaseLenSeconds": 0.2,
+  "attackLevelUnity": 1,
+  "sustainLevelUnity": 1,
+  "detuneSet": [
+    0
+  ],
+  "portamentoAlpha": 1,
+  "portamentoStart": 0,
+  "samplesLoadPoint": null,
+  "midiChannels": [
+    0
+  ],
+  "keyboardLeveling": null,
+  "detuneMultiplier": 1,
+  "octaveSet": [
+    0
+  ]
+}

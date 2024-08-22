@@ -1,0 +1,303 @@
+{
+  "VSCO-2-CE": {
+    "OrganLoudPedal.": "/samples/VSCO-2-CE/OrganLoudPedal.json",
+    "TrumpetStraightMuteSus.": "/samples/VSCO-2-CE/TrumpetStraightMuteSus.json",
+    "VSCO 1 Percussion": {},
+    "SViolinVib-Quiet.": "/samples/VSCO-2-CE/SViolinVib-Quiet.json",
+    "SViolinVib.": "/samples/VSCO-2-CE/SViolinVib.json",
+    "FluteSusNV.": "/samples/VSCO-2-CE/FluteSusNV.json",
+    "VSUpright1.": "/samples/VSCO-2-CE/VSUpright1.json",
+    "ClarinetSus.": "/samples/VSCO-2-CE/ClarinetSus.json",
+    "Harp.": "/samples/VSCO-2-CE/Harp.json",
+    "FluteStac.": "/samples/VSCO-2-CE/FluteStac.json",
+    "TubaStac.": "/samples/VSCO-2-CE/TubaStac.json",
+    "CelloEnsTrem.": "/samples/VSCO-2-CE/CelloEnsTrem.json",
+    "TromboneVib.": "/samples/VSCO-2-CE/TromboneVib.json",
+    "BassoonStac.": "/samples/VSCO-2-CE/BassoonStac.json",
+    "SViolinPizz.": "/samples/VSCO-2-CE/SViolinPizz.json",
+    "Xylophone.": "/samples/VSCO-2-CE/Xylophone.json",
+    "ViolaEnsTrem.": "/samples/VSCO-2-CE/ViolaEnsTrem.json",
+    "TrumpetHarmonMuteSus.": "/samples/VSCO-2-CE/TrumpetHarmonMuteSus.json",
+    "ViolaEnsSusVib-Quiet.": "/samples/VSCO-2-CE/ViolaEnsSusVib-Quiet.json",
+    "TromboneStac.": "/samples/VSCO-2-CE/TromboneStac.json",
+    "ContrabassSusNV.": "/samples/VSCO-2-CE/ContrabassSusNV.json",
+    "Timpani.": "/samples/VSCO-2-CE/Timpani.json",
+    "ViolinEnsSpic.": "/samples/VSCO-2-CE/ViolinEnsSpic.json",
+    "ViolaEnsSusVib.": "/samples/VSCO-2-CE/ViolaEnsSusVib.json",
+    "CelloEnsSusVib-Quiet.": "/samples/VSCO-2-CE/CelloEnsSusVib-Quiet.json",
+    "BassoonVib.": "/samples/VSCO-2-CE/BassoonVib.json",
+    "ViolaEnsPizz.": "/samples/VSCO-2-CE/ViolaEnsPizz.json",
+    "SViolinTrem.": "/samples/VSCO-2-CE/SViolinTrem.json",
+    "Tuba-KS.": "/samples/VSCO-2-CE/Tuba-KS.json",
+    "Glockenspiel.": "/samples/VSCO-2-CE/Glockenspiel.json",
+    "ViolinEnsTrem.": "/samples/VSCO-2-CE/ViolinEnsTrem.json",
+    "OrganLoud.": "/samples/VSCO-2-CE/OrganLoud.json",
+    "ViolinEns-KS.": "/samples/VSCO-2-CE/ViolinEns-KS.json",
+    "TrumpetSus.": "/samples/VSCO-2-CE/TrumpetSus.json",
+    "CelloEnsSusVib.": "/samples/VSCO-2-CE/CelloEnsSusVib.json",
+    "Keys": {},
+    "GM-StylePerc.": "/samples/VSCO-2-CE/GM-StylePerc.json",
+    "ViolinEnsPizz.": "/samples/VSCO-2-CE/ViolinEnsPizz.json",
+    "CelloEnsPizz.": "/samples/VSCO-2-CE/CelloEnsPizz.json",
+    "Strings": {},
+    "ContrabassSpic.": "/samples/VSCO-2-CE/ContrabassSpic.json",
+    "TrumpetSusVib.": "/samples/VSCO-2-CE/TrumpetSusVib.json",
+    "Marimba.": "/samples/VSCO-2-CE/Marimba.json",
+    "FluteSusVib.": "/samples/VSCO-2-CE/FluteSusVib.json",
+    "FHornStac.": "/samples/VSCO-2-CE/FHornStac.json",
+    "CelloEnsSpic.": "/samples/VSCO-2-CE/CelloEnsSpic.json",
+    "Woodwinds": {},
+    "TrumpetStac.": "/samples/VSCO-2-CE/TrumpetStac.json",
+    "ViolaEnsSpic.": "/samples/VSCO-2-CE/ViolaEnsSpic.json",
+    "FluteExpVib.": "/samples/VSCO-2-CE/FluteExpVib.json",
+    "ContrabassPizz.": "/samples/VSCO-2-CE/ContrabassPizz.json",
+    "CelloEns-KS.": "/samples/VSCO-2-CE/CelloEns-KS.json",
+    "TimpaniRolls.": "/samples/VSCO-2-CE/TimpaniRolls.json",
+    "Percussion": {},
+    "SViolinSpic.": "/samples/VSCO-2-CE/SViolinSpic.json",
+    "SViolin-KS.": "/samples/VSCO-2-CE/SViolin-KS.json",
+    "Clarinet-KS.": "/samples/VSCO-2-CE/Clarinet-KS.json",
+    "Contrabass-KS.": "/samples/VSCO-2-CE/Contrabass-KS.json",
+    "PiccoloSus.": "/samples/VSCO-2-CE/PiccoloSus.json",
+    "OrganQuietPedal.": "/samples/VSCO-2-CE/OrganQuietPedal.json",
+    "ViolaEns-KS.": "/samples/VSCO-2-CE/ViolaEns-KS.json",
+    "TubaSus.": "/samples/VSCO-2-CE/TubaSus.json",
+    "BassoonSus.": "/samples/VSCO-2-CE/BassoonSus.json",
+    "PiccoloStac.": "/samples/VSCO-2-CE/PiccoloStac.json",
+    "ContrabassTrem.": "/samples/VSCO-2-CE/ContrabassTrem.json",
+    "ViolinEnsSusVib-Quiet.": "/samples/VSCO-2-CE/ViolinEnsSusVib-Quiet.json",
+    "FHornMute.": "/samples/VSCO-2-CE/FHornMute.json",
+    "OboeSusVib.": "/samples/VSCO-2-CE/OboeSusVib.json",
+    "Flute-KS.": "/samples/VSCO-2-CE/Flute-KS.json",
+    "OrganQuiet.": "/samples/VSCO-2-CE/OrganQuiet.json",
+    "TromboneSus.": "/samples/VSCO-2-CE/TromboneSus.json",
+    "Brass": {},
+    "ViolinEnsSusVib.": "/samples/VSCO-2-CE/ViolinEnsSusVib.json",
+    "UprightPiano.": "/samples/VSCO-2-CE/UprightPiano.json",
+    "OboeStac.": "/samples/VSCO-2-CE/OboeStac.json",
+    "FHornSus.": "/samples/VSCO-2-CE/FHornSus.json",
+    "ContrabassSusVB-Quiet.": "/samples/VSCO-2-CE/ContrabassSusVB-Quiet.json",
+    "ContrabassSusVB.": "/samples/VSCO-2-CE/ContrabassSusVB.json",
+    "TubularBells.": "/samples/VSCO-2-CE/TubularBells.json",
+    "ClarinetStac.": "/samples/VSCO-2-CE/ClarinetStac.json",
+    "Miscellania Raw": {},
+    "OboeSusNV.": "/samples/VSCO-2-CE/OboeSusNV.json"
+  },
+  "Top_12_Free_Guitar_Soundfonts": {
+    "Guitar_Roland Steel Guitar..": "/samples/Top_12_Free_Guitar_Soundfonts/Guitar_Roland Steel Guitar..json",
+    "Wah Wah Guitar": {},
+    "Guitar_Roland Steel Guitar": {},
+    "Naturally Decaying B-Guitars..": "/samples/Top_12_Free_Guitar_Soundfonts/Naturally Decaying B-Guitars..json",
+    "Guitar Acoustic (963KB).": "/samples/Top_12_Free_Guitar_Soundfonts/Guitar Acoustic (963KB).json",
+    "Guitar Acoustic (963KB)..": "/samples/Top_12_Free_Guitar_Soundfonts/Guitar Acoustic (963KB)..json",
+    "Guitar_Roland Steel Guitar.": "/samples/Top_12_Free_Guitar_Soundfonts/Guitar_Roland Steel Guitar.json",
+    "Naturally Decaying B-Guitars.": "/samples/Top_12_Free_Guitar_Soundfonts/Naturally Decaying B-Guitars.json",
+    "Wah Wah Guitar..": "/samples/Top_12_Free_Guitar_Soundfonts/Wah Wah Guitar..json",
+    "NylonFinger..": "/samples/Top_12_Free_Guitar_Soundfonts/NylonFinger..json",
+    "VL Acoustic Guitar 1.1..": "/samples/Top_12_Free_Guitar_Soundfonts/VL Acoustic Guitar 1.1..json",
+    "Wah Wah Guitar.": "/samples/Top_12_Free_Guitar_Soundfonts/Wah Wah Guitar.json",
+    "VL Acoustic Guitar 1.1.": "/samples/Top_12_Free_Guitar_Soundfonts/VL Acoustic Guitar 1.1.json",
+    "Naturally Decaying B-Guitars": {},
+    "VL Acoustic Guitar 1.1": {},
+    "Guitar Acoustic (963KB)": {},
+    "NylonFinger.": "/samples/Top_12_Free_Guitar_Soundfonts/NylonFinger.json"
+  },
+  "EDM": {
+    "Iconic_EDM_Leads": {
+      "Iconic EDM Lead 2.": "/samples/EDM/Iconic_EDM_Leads/Iconic EDM Lead 2.json",
+      "Iconic EDM Lead.": "/samples/EDM/Iconic_EDM_Leads/Iconic EDM Lead.json"
+    },
+    "Iconic_EDM_Leads..": "/samples/EDM/Iconic_EDM_Leads..json",
+    "Iconic_EDM_Leads.": "/samples/EDM/Iconic_EDM_Leads.json"
+  },
+  "Keys": {
+    "jlearman.jRhodes3d": {
+      "jRhodes3d-sv.": "/samples/Keys/jlearman.jRhodes3d/jRhodes3d-sv.json",
+      "jRhodes3d-mono-no-xfade.": "/samples/Keys/jlearman.jRhodes3d/jRhodes3d-mono-no-xfade.json",
+      "jRhodes3d-sv": {
+        "_jRhodes3d-sv-no-xfade-flac.": "/samples/Keys/jlearman.jRhodes3d/jRhodes3d-sv/_jRhodes3d-sv-no-xfade-flac.json",
+        "_jRhodes3d-sv-flac.": "/samples/Keys/jlearman.jRhodes3d/jRhodes3d-sv/_jRhodes3d-sv-flac.json"
+      },
+      "jRhodes3d-st-no-xfade.": "/samples/Keys/jlearman.jRhodes3d/jRhodes3d-st-no-xfade.json",
+      "jRhodes3d-sv-no-xfade.": "/samples/Keys/jlearman.jRhodes3d/jRhodes3d-sv-no-xfade.json",
+      "jRhodes3d-mono": {
+        "_jRhodes3d-mono-flac.": "/samples/Keys/jlearman.jRhodes3d/jRhodes3d-mono/_jRhodes3d-mono-flac.json",
+        "_jRhodes3d-mono-no-xfade-flac.": "/samples/Keys/jlearman.jRhodes3d/jRhodes3d-mono/_jRhodes3d-mono-no-xfade-flac.json"
+      },
+      "jRhodes3d-st.": "/samples/Keys/jlearman.jRhodes3d/jRhodes3d-st.json",
+      "jRhodes3d-st": {
+        "_jRhodes3d-st-flac.": "/samples/Keys/jlearman.jRhodes3d/jRhodes3d-st/_jRhodes3d-st-flac.json",
+        "_jRhodes3d-st-no-xfade-flac.": "/samples/Keys/jlearman.jRhodes3d/jRhodes3d-st/_jRhodes3d-st-no-xfade-flac.json"
+      },
+      "jRhodes3d-mono.": "/samples/Keys/jlearman.jRhodes3d/jRhodes3d-mono.json"
+    },
+    "SplendidGrandPiano": {
+      "Splendid Grand Piano.": "/samples/Keys/SplendidGrandPiano/Splendid Grand Piano.json",
+      "Data": {
+        "MP.": "/samples/Keys/SplendidGrandPiano/Data/MP.json",
+        "PP.": "/samples/Keys/SplendidGrandPiano/Data/PP.json",
+        "MF.": "/samples/Keys/SplendidGrandPiano/Data/MF.json",
+        "Res.": "/samples/Keys/SplendidGrandPiano/Data/Res.json",
+        "FF.": "/samples/Keys/SplendidGrandPiano/Data/FF.json"
+      }
+    }
+  },
+  "Strings": {
+    "hungarian_zither": {
+      "Programs": {
+        "hungarian_zither_mel_strings_poly.": "/samples/Strings/hungarian_zither/Programs/hungarian_zither_mel_strings_poly.json",
+        "mappings": {
+          "down.": "/samples/Strings/hungarian_zither/Programs/mappings/down.json",
+          "up_alt.": "/samples/Strings/hungarian_zither/Programs/mappings/up_alt.json",
+          "up.": "/samples/Strings/hungarian_zither/Programs/mappings/up.json",
+          "mel.": "/samples/Strings/hungarian_zither/Programs/mappings/mel.json",
+          "down_alt.": "/samples/Strings/hungarian_zither/Programs/mappings/down_alt.json"
+        },
+        "hungarian_zither.": "/samples/Strings/hungarian_zither/Programs/hungarian_zither.json"
+      }
+    },
+    "sig-ex_strings-lite_[ogg]": {
+      "Cellos-sustain_lite.": "/samples/Strings/sig-ex_strings-lite_[ogg]/Cellos-sustain_lite.json",
+      "samples": {},
+      "Violas-sustain_lite.": "/samples/Strings/sig-ex_strings-lite_[ogg]/Violas-sustain_lite.json",
+      "Contrabasses-sustain_lite.": "/samples/Strings/sig-ex_strings-lite_[ogg]/Contrabasses-sustain_lite.json",
+      "Violins-sustain_lite.": "/samples/Strings/sig-ex_strings-lite_[ogg]/Violins-sustain_lite.json"
+    }
+  },
+  "Woodwinds": {
+    "Sax": {
+      "karoryfer.bear-sax": {
+        "Programs": {
+          "bearborg": {
+            "single_cycle_sides.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/single_cycle_sides.json",
+            "single_cycle_sides_mono.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/single_cycle_sides_mono.json",
+            "noise.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/noise.json",
+            "noise_mono.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/noise_mono.json",
+            "medium_center_mono.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/medium_center_mono.json",
+            "single_cycle_center_mono.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/single_cycle_center_mono.json",
+            "medium_sides_mono.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/medium_sides_mono.json",
+            "soft_sides.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/soft_sides.json",
+            "medium_center.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/medium_center.json",
+            "medium_sides.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/medium_sides.json",
+            "soft_center.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/soft_center.json",
+            "soft_center_mono.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/soft_center_mono.json",
+            "soft_sides_mono.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/soft_sides_mono.json",
+            "single_cycle_center.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/bearborg/single_cycle_center.json"
+          },
+          "duo_poly": {
+            "staccato_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/duo_poly/staccato_map.json",
+            "dynfade_marcato_long_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/duo_poly/dynfade_marcato_long_map.json",
+            "marcato_short_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/duo_poly/marcato_short_map.json",
+            "dynfade_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/duo_poly/dynfade_map.json"
+          },
+          "3-duo-mono.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/3-duo-mono.json",
+          "duo_legato": {
+            "staccato_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/duo_legato/staccato_map.json",
+            "dynfade_legato_second_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/duo_legato/dynfade_legato_second_map.json",
+            "dynfade_marcato_long_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/duo_legato/dynfade_marcato_long_map.json",
+            "dynfade_legato_first_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/duo_legato/dynfade_legato_first_map.json",
+            "dynfade_marcato_second_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/duo_legato/dynfade_marcato_second_map.json",
+            "marcato_short_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/duo_legato/marcato_short_map.json"
+          },
+          "5-bearcussion.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/5-bearcussion.json",
+          "2-solo-poly.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/2-solo-poly.json",
+          "6-bearborg.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/6-bearborg.json",
+          "4-duo-poly.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/4-duo-poly.json",
+          "1-solo-mono.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/1-solo-mono.json",
+          "legato": {
+            "sub_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/legato/sub_map.json",
+            "staccato_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/legato/staccato_map.json",
+            "dynfade_legato_second_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/legato/dynfade_legato_second_map.json",
+            "dynfade_marcato_long_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/legato/dynfade_marcato_long_map.json",
+            "dynfade_legato_first_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/legato/dynfade_legato_first_map.json",
+            "dynfade_marcato_second_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/legato/dynfade_marcato_second_map.json",
+            "marcato_short_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/legato/marcato_short_map.json",
+            "growl_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/legato/growl_map.json",
+            "noises_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/legato/noises_map.json",
+            "breath.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/legato/breath.json"
+          },
+          "poly": {
+            "sub_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/poly/sub_map.json",
+            "staccato_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/poly/staccato_map.json",
+            "dynfade_marcato_long_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/poly/dynfade_marcato_long_map.json",
+            "marcato_short_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/poly/marcato_short_map.json",
+            "dynfade_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/poly/dynfade_map.json",
+            "growl_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/poly/growl_map.json",
+            "noises_map.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/poly/noises_map.json",
+            "breath.": "/samples/Woodwinds/Sax/karoryfer.bear-sax/Programs/poly/breath.json"
+          }
+        },
+        "Presets": {},
+        "GUI": {}
+      },
+      "styvell-saxoaltovib.": "/samples/Woodwinds/Sax/styvell-saxoaltovib.json"
+    },
+    "Ixox.Flute": {
+      "Data": {
+        "region": {
+          "per.": "/samples/Woodwinds/Ixox.Flute/Data/region/per.json",
+          "nor.": "/samples/Woodwinds/Ixox.Flute/Data/region/nor.json",
+          "det.": "/samples/Woodwinds/Ixox.Flute/Data/region/det.json"
+        },
+        "scale": {
+          "4th_maj_07.": "/samples/Woodwinds/Ixox.Flute/Data/scale/4th_maj_07.json",
+          "3rd_maj_01.": "/samples/Woodwinds/Ixox.Flute/Data/scale/3rd_maj_01.json",
+          "3rd_maj_09.": "/samples/Woodwinds/Ixox.Flute/Data/scale/3rd_maj_09.json",
+          "5th_maj_03.": "/samples/Woodwinds/Ixox.Flute/Data/scale/5th_maj_03.json",
+          "3rd_maj_10.": "/samples/Woodwinds/Ixox.Flute/Data/scale/3rd_maj_10.json",
+          "5th_maj_12.": "/samples/Woodwinds/Ixox.Flute/Data/scale/5th_maj_12.json",
+          "5th_maj_11.": "/samples/Woodwinds/Ixox.Flute/Data/scale/5th_maj_11.json",
+          "5th_maj_02.": "/samples/Woodwinds/Ixox.Flute/Data/scale/5th_maj_02.json",
+          "3rd_maj_11.": "/samples/Woodwinds/Ixox.Flute/Data/scale/3rd_maj_11.json",
+          "4th_maj_10.": "/samples/Woodwinds/Ixox.Flute/Data/scale/4th_maj_10.json",
+          "5th_maj_01.": "/samples/Woodwinds/Ixox.Flute/Data/scale/5th_maj_01.json",
+          "5th_maj_10.": "/samples/Woodwinds/Ixox.Flute/Data/scale/5th_maj_10.json",
+          "5th_maj_07.": "/samples/Woodwinds/Ixox.Flute/Data/scale/5th_maj_07.json",
+          "4th_maj_09.": "/samples/Woodwinds/Ixox.Flute/Data/scale/4th_maj_09.json",
+          "4th_maj_02.": "/samples/Woodwinds/Ixox.Flute/Data/scale/4th_maj_02.json",
+          "3rd_maj_12.": "/samples/Woodwinds/Ixox.Flute/Data/scale/3rd_maj_12.json",
+          "4th_maj_12.": "/samples/Woodwinds/Ixox.Flute/Data/scale/4th_maj_12.json",
+          "4th_maj_11.": "/samples/Woodwinds/Ixox.Flute/Data/scale/4th_maj_11.json",
+          "5th_maj_08.": "/samples/Woodwinds/Ixox.Flute/Data/scale/5th_maj_08.json",
+          "5th_maj_06.": "/samples/Woodwinds/Ixox.Flute/Data/scale/5th_maj_06.json",
+          "3rd_maj_02.": "/samples/Woodwinds/Ixox.Flute/Data/scale/3rd_maj_02.json",
+          "4th_maj_06.": "/samples/Woodwinds/Ixox.Flute/Data/scale/4th_maj_06.json",
+          "3rd_maj_04.": "/samples/Woodwinds/Ixox.Flute/Data/scale/3rd_maj_04.json",
+          "3rd_maj_08.": "/samples/Woodwinds/Ixox.Flute/Data/scale/3rd_maj_08.json",
+          "5th_maj_09.": "/samples/Woodwinds/Ixox.Flute/Data/scale/5th_maj_09.json",
+          "3rd_maj_05.": "/samples/Woodwinds/Ixox.Flute/Data/scale/3rd_maj_05.json",
+          "4th_maj_01.": "/samples/Woodwinds/Ixox.Flute/Data/scale/4th_maj_01.json",
+          "3rd_maj_03.": "/samples/Woodwinds/Ixox.Flute/Data/scale/3rd_maj_03.json",
+          "4th_maj_04.": "/samples/Woodwinds/Ixox.Flute/Data/scale/4th_maj_04.json",
+          "3rd_maj_07.": "/samples/Woodwinds/Ixox.Flute/Data/scale/3rd_maj_07.json",
+          "4th_maj_05.": "/samples/Woodwinds/Ixox.Flute/Data/scale/4th_maj_05.json",
+          "4th_maj_03.": "/samples/Woodwinds/Ixox.Flute/Data/scale/4th_maj_03.json",
+          "3rd_maj_06.": "/samples/Woodwinds/Ixox.Flute/Data/scale/3rd_maj_06.json",
+          "5th_maj_05.": "/samples/Woodwinds/Ixox.Flute/Data/scale/5th_maj_05.json",
+          "4th_maj_08.": "/samples/Woodwinds/Ixox.Flute/Data/scale/4th_maj_08.json",
+          "5th_maj_04.": "/samples/Woodwinds/Ixox.Flute/Data/scale/5th_maj_04.json"
+        },
+        "global.": "/samples/Woodwinds/Ixox.Flute/Data/global.json",
+        "master.": "/samples/Woodwinds/Ixox.Flute/Data/master.json",
+        "group": {},
+        "setting": {
+          "sw_3mi.": "/samples/Woodwinds/Ixox.Flute/Data/setting/sw_3mi.json",
+          "sw_1no.": "/samples/Woodwinds/Ixox.Flute/Data/setting/sw_1no.json",
+          "sw_8va.": "/samples/Woodwinds/Ixox.Flute/Data/setting/sw_8va.json",
+          "legato.": "/samples/Woodwinds/Ixox.Flute/Data/setting/legato.json",
+          "sw_set.": "/samples/Woodwinds/Ixox.Flute/Data/setting/sw_set.json",
+          "no_scale.": "/samples/Woodwinds/Ixox.Flute/Data/setting/no_scale.json",
+          "sw_4th.": "/samples/Woodwinds/Ixox.Flute/Data/setting/sw_4th.json",
+          "sw_5th.": "/samples/Woodwinds/Ixox.Flute/Data/setting/sw_5th.json",
+          "sw_3rd.": "/samples/Woodwinds/Ixox.Flute/Data/setting/sw_3rd.json"
+        }
+      },
+      "Ixox_Flute.": "/samples/Woodwinds/Ixox.Flute/Ixox_Flute.json"
+    }
+  },
+  "Brass": {},
+  "Organs": {
+    "1-Tr_B3.": "/samples/Organs/1-Tr_B3.json",
+    "1-Tr_B3": {}
+  }
+}

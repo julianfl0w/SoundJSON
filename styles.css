@@ -1,12 +1,58 @@
 body {
     background-color: #121212;
     color: #ffffff;
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     margin: 0;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-around; /* Adjust to space-around for better spacing */
+    align-items: flex-start; /* Align items to the start */
     height: 100vh;
+    padding-top: 50px; /* Added padding for better spacing from the top */
+}
+
+#sitemap {
+    width: 50%; /* Half of the screen width */
+    max-width: 600px;
+    font-size: 3em;
+    overflow-y: auto; /* Add scrolling */
+    height: 90vh; /* Limit height to prevent overflow */
+    border-right: 2px solid #333; /* Separator between sections */
+}
+
+#keyboard {
+    width: 50%; /* Half of the screen width */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start; /* Changed from center to start */
+    max-height: 90vh; /* Limit height */
+    overflow-y: auto; /* Add scrolling if necessary */
+}
+
+.key {
+    border: 1px solid #000;
+    padding: 10px; /* Reduced padding */
+    margin: 2px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.white-key {
+    background-color: white;
+    color: black; /* Text color for visibility */
+    width: 100vw; /* Adjust to full container width */
+    height: 6vh; /* Slightly reduced height */
+    z-index: 1;
+}
+
+.black-key {
+    background-color: black;
+    color: white; /* Text color for visibility */
+    width: 70vw; /* Adjust width */
+    height: 4vh; /* Reduced height for aesthetics */
+    margin-left: 15%; /* Centering the black keys */
+    z-index: 2;
+    position: relative;
 }
 
 #dropArea {
@@ -29,41 +75,4 @@ body {
 
 #dropArea:active {
     background-color: #555555;
-}
-
-
-#keyboard {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    max-height: 600px;
-    margin: 20px auto;
-}
-
-.key {
-    border: 1px solid #000;
-    padding: 20px;
-    margin: 2px;
-    cursor: pointer;
-    user-select: none;
-}
-
-.white-key {
-    background-color: white;
-    width: 80vw;
-    height: 7vh;
-    z-index: 1;
-}
-
-.black-key {
-    background-color: black;
-    width: 60%;
-    height: 7%;
-    margin-top: -15px;
-    margin-bottom: -15px;
-    margin-right: 20vw;
-    z-index: 2;
-    position: relative;
-    left: 0;
 }

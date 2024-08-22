@@ -21,7 +21,26 @@ const qwerty_c_major_dict = {
     "t": 66,  // F sharp/G flat
     "y": 68,  // G sharp/A flat
     "u": 70,  // A sharp/B flat
+    "A": 84,  // C (two octaves up)
+    "S": 86,  // D (two octaves up)
+    "D": 88,  // E (two octaves up)
+    "F": 89,  // F (two octaves up)
+    "G": 91,  // G (two octaves up)
+    "H": 93,  // A (two octaves up)
+    "J": 95,  // B (two octaves up)
+    "K": 96,  // C (two octaves up)
+    "L": 98,  // D (two octaves up)
+    ":": 100, // E (two octaves up)
+    "\"": 101, // F (two octaves up)
+    "Q": 83,  // B flat (two octaves up)
+    "W": 85,  // C sharp/D flat (two octaves up)
+    "E": 87,  // D sharp/E flat (two octaves up)
+    "R": 88,  // E sharp/F (two octaves up)
+    "T": 90,  // F sharp/G flat (two octaves up)
+    "Y": 92,  // G sharp/A flat (two octaves up)
+    "U": 94,  // A sharp/B flat (two octaves up)
 };
+
 
 async function loadSamples(jsonData) {
     for (let key in jsonData) {
@@ -58,7 +77,7 @@ function base64ToArrayBuffer(base64) {
 function enableKeyboardControl() {
     window.addEventListener('keydown', (event) => {
         const key = event.key;
-        const pitch = qwerty_c_major_dict[key];
+        const pitch = qwerty_c_major_dict[key] - 12;
         if (pitch === undefined) {
             return;
         }
@@ -99,10 +118,15 @@ function playSample(pitch) {
     });
 }
 
-// Load the JSON file and initialize the samples
-fetch('SoloSteel1_4.json')
-    .then(response => response.json())
-    .then(data => {
-        loadSamples(data).then(() => enableKeyboardControl());
-    })
-    .catch(error => console.error('Error loading JSON file:', error));
+function loadFromFilename(filename){
+    // Load the JSON file and initialize the samples
+    console.log("loading ", filename)
+    fetch( filename)
+        .then(response => response.json())
+        .then(data => {
+            loadSamples(data).then(() => enableKeyboardControl());
+        })
+        .catch(error => console.error('Error loading JSON file:', error));
+}
+
+loadFromFilename('SoloSteel1_4.json')
