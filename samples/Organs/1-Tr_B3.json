@@ -1,1 +1,2614 @@
-"{\n  \"../../jero/jero/samples/Gold_SF2/Organs/1-Tr_B3.sf2_Jazz B3\": {\n    \"source\": \"sf2\",\n    \"displayName\": \"Jazz B3\",\n    \"name\": \"Jazz B3\",\n    \"percussion\": 0,\n    \"percussiveSampleIndex\": 45,\n    \"loop\": 0,\n    \"success\": true,\n    \"path\": [\n      \"../../jero/jero/samples/Gold_SF2/Organs\",\n      \"1-Tr_B3\",\n      \"Jazz B3\"\n    ],\n    \"key2samples\": [\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.03125,\n          \"keyTrigger\": 0,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.03125,\n          \"keyTrigger\": 0,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.03125,\n          \"keyTrigger\": 0,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.03310822169872797,\n          \"keyTrigger\": 1,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.03310822169872797,\n          \"keyTrigger\": 1,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.03310822169872797,\n          \"keyTrigger\": 1,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.035076939009667914,\n          \"keyTrigger\": 2,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.035076939009667914,\n          \"keyTrigger\": 2,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.035076939009667914,\n          \"keyTrigger\": 2,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.03716272234383503,\n          \"keyTrigger\": 3,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.03716272234383503,\n          \"keyTrigger\": 3,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.03716272234383503,\n          \"keyTrigger\": 3,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.03937253280921478,\n          \"keyTrigger\": 4,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.03937253280921478,\n          \"keyTrigger\": 4,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.03937253280921478,\n          \"keyTrigger\": 4,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.04171374544281358,\n          \"keyTrigger\": 5,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.04171374544281358,\n          \"keyTrigger\": 5,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.04171374544281358,\n          \"keyTrigger\": 5,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.04419417382415922,\n          \"keyTrigger\": 6,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.04419417382415922,\n          \"keyTrigger\": 6,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.04419417382415922,\n          \"keyTrigger\": 6,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.04682209615239629,\n          \"keyTrigger\": 7,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.04682209615239629,\n          \"keyTrigger\": 7,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.04682209615239629,\n          \"keyTrigger\": 7,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.049606282874006244,\n          \"keyTrigger\": 8,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.049606282874006244,\n          \"keyTrigger\": 8,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.049606282874006244,\n          \"keyTrigger\": 8,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.052556025953357156,\n          \"keyTrigger\": 9,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.052556025953357156,\n          \"keyTrigger\": 9,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.052556025953357156,\n          \"keyTrigger\": 9,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.0556811698837712,\n          \"keyTrigger\": 10,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.0556811698837712,\n          \"keyTrigger\": 10,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.0556811698837712,\n          \"keyTrigger\": 10,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.05899214454260585,\n          \"keyTrigger\": 11,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.05899214454260585,\n          \"keyTrigger\": 11,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.05899214454260585,\n          \"keyTrigger\": 11,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.0625,\n          \"keyTrigger\": 12,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.0625,\n          \"keyTrigger\": 12,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.0625,\n          \"keyTrigger\": 12,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.06621644339745596,\n          \"keyTrigger\": 13,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.06621644339745596,\n          \"keyTrigger\": 13,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.06621644339745596,\n          \"keyTrigger\": 13,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.0701538780193358,\n          \"keyTrigger\": 14,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.0701538780193358,\n          \"keyTrigger\": 14,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.0701538780193358,\n          \"keyTrigger\": 14,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.07432544468767006,\n          \"keyTrigger\": 15,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.07432544468767006,\n          \"keyTrigger\": 15,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.07432544468767006,\n          \"keyTrigger\": 15,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.07874506561842957,\n          \"keyTrigger\": 16,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.07874506561842957,\n          \"keyTrigger\": 16,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.07874506561842957,\n          \"keyTrigger\": 16,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.08342749088562713,\n          \"keyTrigger\": 17,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.08342749088562713,\n          \"keyTrigger\": 17,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.08342749088562713,\n          \"keyTrigger\": 17,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.08838834764831845,\n          \"keyTrigger\": 18,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.08838834764831845,\n          \"keyTrigger\": 18,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.08838834764831845,\n          \"keyTrigger\": 18,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.09364419230479261,\n          \"keyTrigger\": 19,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.09364419230479261,\n          \"keyTrigger\": 19,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.09364419230479261,\n          \"keyTrigger\": 19,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.09921256574801246,\n          \"keyTrigger\": 20,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.09921256574801246,\n          \"keyTrigger\": 20,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.09921256574801246,\n          \"keyTrigger\": 20,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.10511205190671431,\n          \"keyTrigger\": 21,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.10511205190671431,\n          \"keyTrigger\": 21,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.10511205190671431,\n          \"keyTrigger\": 21,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.11136233976754242,\n          \"keyTrigger\": 22,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.11136233976754242,\n          \"keyTrigger\": 22,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.11136233976754242,\n          \"keyTrigger\": 22,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.11798428908521168,\n          \"keyTrigger\": 23,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.11798428908521168,\n          \"keyTrigger\": 23,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.11798428908521168,\n          \"keyTrigger\": 23,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.125,\n          \"keyTrigger\": 24,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.125,\n          \"keyTrigger\": 24,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.125,\n          \"keyTrigger\": 24,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.1324328867949119,\n          \"keyTrigger\": 25,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.1324328867949119,\n          \"keyTrigger\": 25,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.1324328867949119,\n          \"keyTrigger\": 25,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.1403077560386716,\n          \"keyTrigger\": 26,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.1403077560386716,\n          \"keyTrigger\": 26,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.1403077560386716,\n          \"keyTrigger\": 26,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.14865088937534013,\n          \"keyTrigger\": 27,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.14865088937534013,\n          \"keyTrigger\": 27,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.14865088937534013,\n          \"keyTrigger\": 27,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.15749013123685915,\n          \"keyTrigger\": 28,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.15749013123685915,\n          \"keyTrigger\": 28,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.15749013123685915,\n          \"keyTrigger\": 28,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.16685498177125427,\n          \"keyTrigger\": 29,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.16685498177125427,\n          \"keyTrigger\": 29,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.16685498177125427,\n          \"keyTrigger\": 29,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.1767766952966369,\n          \"keyTrigger\": 30,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.1767766952966369,\n          \"keyTrigger\": 30,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.1767766952966369,\n          \"keyTrigger\": 30,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.18728838460958522,\n          \"keyTrigger\": 31,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.18728838460958522,\n          \"keyTrigger\": 31,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.18728838460958522,\n          \"keyTrigger\": 31,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.19842513149602492,\n          \"keyTrigger\": 32,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.19842513149602492,\n          \"keyTrigger\": 32,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.19842513149602492,\n          \"keyTrigger\": 32,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.21022410381342863,\n          \"keyTrigger\": 33,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.21022410381342863,\n          \"keyTrigger\": 33,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.21022410381342863,\n          \"keyTrigger\": 33,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.22272467953508485,\n          \"keyTrigger\": 34,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.22272467953508485,\n          \"keyTrigger\": 34,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.22272467953508485,\n          \"keyTrigger\": 34,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.23596857817042335,\n          \"keyTrigger\": 35,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.23596857817042335,\n          \"keyTrigger\": 35,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.23596857817042335,\n          \"keyTrigger\": 35,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.25,\n          \"keyTrigger\": 36,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.25,\n          \"keyTrigger\": 36,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.25,\n          \"keyTrigger\": 36,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.2648657735898238,\n          \"keyTrigger\": 37,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.2648657735898238,\n          \"keyTrigger\": 37,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.2648657735898238,\n          \"keyTrigger\": 37,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.28061551207734325,\n          \"keyTrigger\": 38,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.28061551207734325,\n          \"keyTrigger\": 38,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.28061551207734325,\n          \"keyTrigger\": 38,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.29730177875068026,\n          \"keyTrigger\": 39,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.29730177875068026,\n          \"keyTrigger\": 39,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.29730177875068026,\n          \"keyTrigger\": 39,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.3149802624737183,\n          \"keyTrigger\": 40,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.3149802624737183,\n          \"keyTrigger\": 40,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.3149802624737183,\n          \"keyTrigger\": 40,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.3337099635425086,\n          \"keyTrigger\": 41,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.3337099635425086,\n          \"keyTrigger\": 41,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.3337099635425086,\n          \"keyTrigger\": 41,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.3535533905932738,\n          \"keyTrigger\": 42,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.3535533905932738,\n          \"keyTrigger\": 42,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.3535533905932738,\n          \"keyTrigger\": 42,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.3745767692191704,\n          \"keyTrigger\": 43,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.3745767692191704,\n          \"keyTrigger\": 43,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.3745767692191704,\n          \"keyTrigger\": 43,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.3968502629920499,\n          \"keyTrigger\": 44,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.3968502629920499,\n          \"keyTrigger\": 44,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.3968502629920499,\n          \"keyTrigger\": 44,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.42044820762685725,\n          \"keyTrigger\": 45,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.42044820762685725,\n          \"keyTrigger\": 45,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.42044820762685725,\n          \"keyTrigger\": 45,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.44544935907016964,\n          \"keyTrigger\": 46,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.44544935907016964,\n          \"keyTrigger\": 46,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.44544935907016964,\n          \"keyTrigger\": 46,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.47193715634084676,\n          \"keyTrigger\": 47,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.47193715634084676,\n          \"keyTrigger\": 47,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.47193715634084676,\n          \"keyTrigger\": 47,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.5,\n          \"keyTrigger\": 48,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.5,\n          \"keyTrigger\": 48,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.5,\n          \"keyTrigger\": 48,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.5297315471796477,\n          \"keyTrigger\": 49,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.5297315471796477,\n          \"keyTrigger\": 49,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.5297315471796477,\n          \"keyTrigger\": 49,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.5612310241546865,\n          \"keyTrigger\": 50,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.5612310241546865,\n          \"keyTrigger\": 50,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.5612310241546865,\n          \"keyTrigger\": 50,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.5946035575013605,\n          \"keyTrigger\": 51,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.5946035575013605,\n          \"keyTrigger\": 51,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.5946035575013605,\n          \"keyTrigger\": 51,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.6299605249474366,\n          \"keyTrigger\": 52,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.6299605249474366,\n          \"keyTrigger\": 52,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.6299605249474366,\n          \"keyTrigger\": 52,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.6674199270850172,\n          \"keyTrigger\": 53,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.6674199270850172,\n          \"keyTrigger\": 53,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.6674199270850172,\n          \"keyTrigger\": 53,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.7071067811865476,\n          \"keyTrigger\": 54,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.7071067811865476,\n          \"keyTrigger\": 54,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.7071067811865476,\n          \"keyTrigger\": 54,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.7491535384383408,\n          \"keyTrigger\": 55,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.7491535384383408,\n          \"keyTrigger\": 55,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.7491535384383408,\n          \"keyTrigger\": 55,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.7937005259840998,\n          \"keyTrigger\": 56,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.7937005259840998,\n          \"keyTrigger\": 56,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.7937005259840998,\n          \"keyTrigger\": 56,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.8408964152537145,\n          \"keyTrigger\": 57,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.8408964152537145,\n          \"keyTrigger\": 57,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.8408964152537145,\n          \"keyTrigger\": 57,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.8908987181403393,\n          \"keyTrigger\": 58,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.8908987181403393,\n          \"keyTrigger\": 58,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.8908987181403393,\n          \"keyTrigger\": 58,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 0.9438743126816935,\n          \"keyTrigger\": 59,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 0.9438743126816935,\n          \"keyTrigger\": 59,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 0.9438743126816935,\n          \"keyTrigger\": 59,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 1,\n          \"keyTrigger\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 1,\n          \"keyTrigger\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 1,\n          \"keyTrigger\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 1.0594630943592953,\n          \"keyTrigger\": 61,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 1.0594630943592953,\n          \"keyTrigger\": 61,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 1.0594630943592953,\n          \"keyTrigger\": 61,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 1.122462048309373,\n          \"keyTrigger\": 62,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 1.122462048309373,\n          \"keyTrigger\": 62,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 1.122462048309373,\n          \"keyTrigger\": 62,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 1.189207115002721,\n          \"keyTrigger\": 63,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 1.189207115002721,\n          \"keyTrigger\": 63,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 1.189207115002721,\n          \"keyTrigger\": 63,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 1.2599210498948732,\n          \"keyTrigger\": 64,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 1.2599210498948732,\n          \"keyTrigger\": 64,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 1.2599210498948732,\n          \"keyTrigger\": 64,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 1.3348398541700344,\n          \"keyTrigger\": 65,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 1.3348398541700344,\n          \"keyTrigger\": 65,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 1.3348398541700344,\n          \"keyTrigger\": 65,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 1.4142135623730951,\n          \"keyTrigger\": 66,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 1.4142135623730951,\n          \"keyTrigger\": 66,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 1.4142135623730951,\n          \"keyTrigger\": 66,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 1.4983070768766815,\n          \"keyTrigger\": 67,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 1.4983070768766815,\n          \"keyTrigger\": 67,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 1.4983070768766815,\n          \"keyTrigger\": 67,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 1.5874010519681994,\n          \"keyTrigger\": 68,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 1.5874010519681994,\n          \"keyTrigger\": 68,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 1.5874010519681994,\n          \"keyTrigger\": 68,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 1.681792830507429,\n          \"keyTrigger\": 69,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 1.681792830507429,\n          \"keyTrigger\": 69,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 1.681792830507429,\n          \"keyTrigger\": 69,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 1.7817974362806785,\n          \"keyTrigger\": 70,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 1.7817974362806785,\n          \"keyTrigger\": 70,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 1.7817974362806785,\n          \"keyTrigger\": 70,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 1.8877486253633868,\n          \"keyTrigger\": 71,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 1.8877486253633868,\n          \"keyTrigger\": 71,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 1.8877486253633868,\n          \"keyTrigger\": 71,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 2.0,\n          \"keyTrigger\": 72,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 2.0,\n          \"keyTrigger\": 72,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 2.0,\n          \"keyTrigger\": 72,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 2.1189261887185906,\n          \"keyTrigger\": 73,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 2.1189261887185906,\n          \"keyTrigger\": 73,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 2.1189261887185906,\n          \"keyTrigger\": 73,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 2.244924096618746,\n          \"keyTrigger\": 74,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 2.244924096618746,\n          \"keyTrigger\": 74,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 2.244924096618746,\n          \"keyTrigger\": 74,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 2.378414230005442,\n          \"keyTrigger\": 75,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 2.378414230005442,\n          \"keyTrigger\": 75,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 2.378414230005442,\n          \"keyTrigger\": 75,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 2.5198420997897464,\n          \"keyTrigger\": 76,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 2.5198420997897464,\n          \"keyTrigger\": 76,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 2.5198420997897464,\n          \"keyTrigger\": 76,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 2.6696797083400687,\n          \"keyTrigger\": 77,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 2.6696797083400687,\n          \"keyTrigger\": 77,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 2.6696797083400687,\n          \"keyTrigger\": 77,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 2.8284271247461903,\n          \"keyTrigger\": 78,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 2.8284271247461903,\n          \"keyTrigger\": 78,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 2.8284271247461903,\n          \"keyTrigger\": 78,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 2.996614153753363,\n          \"keyTrigger\": 79,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 2.996614153753363,\n          \"keyTrigger\": 79,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 2.996614153753363,\n          \"keyTrigger\": 79,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 3.174802103936399,\n          \"keyTrigger\": 80,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 3.174802103936399,\n          \"keyTrigger\": 80,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 3.174802103936399,\n          \"keyTrigger\": 80,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 3.363585661014858,\n          \"keyTrigger\": 81,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 3.363585661014858,\n          \"keyTrigger\": 81,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 3.363585661014858,\n          \"keyTrigger\": 81,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 3.563594872561357,\n          \"keyTrigger\": 82,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 3.563594872561357,\n          \"keyTrigger\": 82,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 3.563594872561357,\n          \"keyTrigger\": 82,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 3.775497250726774,\n          \"keyTrigger\": 83,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 3.775497250726774,\n          \"keyTrigger\": 83,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 3.775497250726774,\n          \"keyTrigger\": 83,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 4.0,\n          \"keyTrigger\": 84,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 4.0,\n          \"keyTrigger\": 84,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 4.0,\n          \"keyTrigger\": 84,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 4.237852377437181,\n          \"keyTrigger\": 85,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 4.237852377437181,\n          \"keyTrigger\": 85,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 4.237852377437181,\n          \"keyTrigger\": 85,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 4.489848193237491,\n          \"keyTrigger\": 86,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 4.489848193237491,\n          \"keyTrigger\": 86,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 4.489848193237491,\n          \"keyTrigger\": 86,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 4.756828460010884,\n          \"keyTrigger\": 87,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 4.756828460010884,\n          \"keyTrigger\": 87,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 4.756828460010884,\n          \"keyTrigger\": 87,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 5.039684199579493,\n          \"keyTrigger\": 88,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 5.039684199579493,\n          \"keyTrigger\": 88,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 5.039684199579493,\n          \"keyTrigger\": 88,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 5.339359416680137,\n          \"keyTrigger\": 89,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 5.339359416680137,\n          \"keyTrigger\": 89,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 5.339359416680137,\n          \"keyTrigger\": 89,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 5.656854249492381,\n          \"keyTrigger\": 90,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 5.656854249492381,\n          \"keyTrigger\": 90,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 5.656854249492381,\n          \"keyTrigger\": 90,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 5.993228307506727,\n          \"keyTrigger\": 91,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 5.993228307506727,\n          \"keyTrigger\": 91,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 5.993228307506727,\n          \"keyTrigger\": 91,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 6.3496042078727974,\n          \"keyTrigger\": 92,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 6.3496042078727974,\n          \"keyTrigger\": 92,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 6.3496042078727974,\n          \"keyTrigger\": 92,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 6.727171322029716,\n          \"keyTrigger\": 93,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 6.727171322029716,\n          \"keyTrigger\": 93,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 6.727171322029716,\n          \"keyTrigger\": 93,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 7.127189745122715,\n          \"keyTrigger\": 94,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 7.127189745122715,\n          \"keyTrigger\": 94,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 7.127189745122715,\n          \"keyTrigger\": 94,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 7.550994501453547,\n          \"keyTrigger\": 95,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 7.550994501453547,\n          \"keyTrigger\": 95,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 7.550994501453547,\n          \"keyTrigger\": 95,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 8.0,\n          \"keyTrigger\": 96,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 8.0,\n          \"keyTrigger\": 96,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 8.0,\n          \"keyTrigger\": 96,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 8.475704754874362,\n          \"keyTrigger\": 97,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 8.475704754874362,\n          \"keyTrigger\": 97,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 8.475704754874362,\n          \"keyTrigger\": 97,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 8.979696386474982,\n          \"keyTrigger\": 98,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 8.979696386474982,\n          \"keyTrigger\": 98,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 8.979696386474982,\n          \"keyTrigger\": 98,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 9.513656920021768,\n          \"keyTrigger\": 99,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 9.513656920021768,\n          \"keyTrigger\": 99,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 9.513656920021768,\n          \"keyTrigger\": 99,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 10.079368399158986,\n          \"keyTrigger\": 100,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 10.079368399158986,\n          \"keyTrigger\": 100,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 10.079368399158986,\n          \"keyTrigger\": 100,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 10.678718833360273,\n          \"keyTrigger\": 101,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 10.678718833360273,\n          \"keyTrigger\": 101,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 10.678718833360273,\n          \"keyTrigger\": 101,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 11.313708498984761,\n          \"keyTrigger\": 102,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 11.313708498984761,\n          \"keyTrigger\": 102,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 11.313708498984761,\n          \"keyTrigger\": 102,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 11.986456615013454,\n          \"keyTrigger\": 103,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 11.986456615013454,\n          \"keyTrigger\": 103,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 11.986456615013454,\n          \"keyTrigger\": 103,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 12.699208415745595,\n          \"keyTrigger\": 104,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 12.699208415745595,\n          \"keyTrigger\": 104,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 12.699208415745595,\n          \"keyTrigger\": 104,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 13.454342644059432,\n          \"keyTrigger\": 105,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 13.454342644059432,\n          \"keyTrigger\": 105,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 13.454342644059432,\n          \"keyTrigger\": 105,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 14.25437949024543,\n          \"keyTrigger\": 106,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 14.25437949024543,\n          \"keyTrigger\": 106,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 14.25437949024543,\n          \"keyTrigger\": 106,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 15.101989002907095,\n          \"keyTrigger\": 107,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 15.101989002907095,\n          \"keyTrigger\": 107,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 15.101989002907095,\n          \"keyTrigger\": 107,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 16.0,\n          \"keyTrigger\": 108,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 16.0,\n          \"keyTrigger\": 108,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 16.0,\n          \"keyTrigger\": 108,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 16.95140950974872,\n          \"keyTrigger\": 109,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 16.95140950974872,\n          \"keyTrigger\": 109,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 16.95140950974872,\n          \"keyTrigger\": 109,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 17.959392772949972,\n          \"keyTrigger\": 110,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 17.959392772949972,\n          \"keyTrigger\": 110,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 17.959392772949972,\n          \"keyTrigger\": 110,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 19.027313840043536,\n          \"keyTrigger\": 111,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 19.027313840043536,\n          \"keyTrigger\": 111,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 19.027313840043536,\n          \"keyTrigger\": 111,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 20.158736798317967,\n          \"keyTrigger\": 112,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 20.158736798317967,\n          \"keyTrigger\": 112,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 20.158736798317967,\n          \"keyTrigger\": 112,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 21.357437666720553,\n          \"keyTrigger\": 113,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 21.357437666720553,\n          \"keyTrigger\": 113,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 21.357437666720553,\n          \"keyTrigger\": 113,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 22.627416997969522,\n          \"keyTrigger\": 114,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 22.627416997969522,\n          \"keyTrigger\": 114,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 22.627416997969522,\n          \"keyTrigger\": 114,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 23.9729132300269,\n          \"keyTrigger\": 115,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 23.9729132300269,\n          \"keyTrigger\": 115,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 23.9729132300269,\n          \"keyTrigger\": 115,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 25.398416831491197,\n          \"keyTrigger\": 116,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 25.398416831491197,\n          \"keyTrigger\": 116,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 25.398416831491197,\n          \"keyTrigger\": 116,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 26.908685288118864,\n          \"keyTrigger\": 117,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 26.908685288118864,\n          \"keyTrigger\": 117,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 26.908685288118864,\n          \"keyTrigger\": 117,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 28.508758980490853,\n          \"keyTrigger\": 118,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 28.508758980490853,\n          \"keyTrigger\": 118,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 28.508758980490853,\n          \"keyTrigger\": 118,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 30.203978005814196,\n          \"keyTrigger\": 119,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 30.203978005814196,\n          \"keyTrigger\": 119,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 30.203978005814196,\n          \"keyTrigger\": 119,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 32.0,\n          \"keyTrigger\": 120,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 32.0,\n          \"keyTrigger\": 120,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 32.0,\n          \"keyTrigger\": 120,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 33.90281901949744,\n          \"keyTrigger\": 121,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 33.90281901949744,\n          \"keyTrigger\": 121,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 33.90281901949744,\n          \"keyTrigger\": 121,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 35.918785545899944,\n          \"keyTrigger\": 122,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 35.918785545899944,\n          \"keyTrigger\": 122,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 35.918785545899944,\n          \"keyTrigger\": 122,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 38.05462768008707,\n          \"keyTrigger\": 123,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 38.05462768008707,\n          \"keyTrigger\": 123,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 38.05462768008707,\n          \"keyTrigger\": 123,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 40.317473596635935,\n          \"keyTrigger\": 124,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 40.317473596635935,\n          \"keyTrigger\": 124,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 40.317473596635935,\n          \"keyTrigger\": 124,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 42.71487533344111,\n          \"keyTrigger\": 125,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 42.71487533344111,\n          \"keyTrigger\": 125,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 42.71487533344111,\n          \"keyTrigger\": 125,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 45.254833995939045,\n          \"keyTrigger\": 126,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 45.254833995939045,\n          \"keyTrigger\": 126,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 45.254833995939045,\n          \"keyTrigger\": 126,\n          \"targetKeyCenter\": 60\n        }\n      ],\n      [\n        {\n          \"sampleNo\": 0,\n          \"pitchBend\": 47.9458264600538,\n          \"keyTrigger\": 127,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 1,\n          \"pitchBend\": 47.9458264600538,\n          \"keyTrigger\": 127,\n          \"targetKeyCenter\": 60\n        },\n        {\n          \"sampleNo\": 2,\n          \"pitchBend\": 47.9458264600538,\n          \"keyTrigger\": 127,\n          \"targetKeyCenter\": 60\n        }\n      ]\n    ],\n    \"samples\": [\n      {\n        \"sampleNo\": 0,\n        \"channels\": 1,\n        \"sample_rate\": 44100,\n        \"sample\": \"jazz1_c4\",\n        \"lengthSamples\": 11252,\n        \"audioFormat\": \"mp3\",\n        \"audioData\": \"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\",\n        \"pitch_keycenter\": 60,\n        \"gain\": 2.847781688610785,\n        \"samplesLoadPoint\": \"\"\n      },\n      {\n        \"sampleNo\": 1,\n        \"channels\": 1,\n        \"sample_rate\": 44100,\n        \"sample\": \"jazz1_c5\",\n        \"lengthSamples\": 7488,\n        \"audioFormat\": \"mp3\",\n        \"audioData\": \"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\",\n        \"pitch_keycenter\": 60,\n        \"gain\": 2.7492239281818946,\n        \"samplesLoadPoint\": \"\"\n      },\n      {\n        \"sampleNo\": 2,\n        \"channels\": 1,\n        \"sample_rate\": 44100,\n        \"sample\": \"jazz1_c4\",\n        \"lengthSamples\": 11252,\n        \"audioFormat\": \"mp3\",\n        \"audioData\": \"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\",\n        \"pitch_keycenter\": 60,\n        \"gain\": 2.847781688610785,\n        \"samplesLoadPoint\": \"\"\n      }\n    ],\n    \"outFilename\": \"../../jero/jero/samples/Gold_SF2/Organs/1-Tr_B3.json\"\n  }\n}"
+{
+  "..\\..\\jero\\jero\\samples\\Gold_SF2\\Organs\\1-Tr_B3.sf2_Jazz B3": {
+    "source": "sf2",
+    "displayName": "Jazz B3",
+    "name": "Jazz B3",
+    "percussion": 0,
+    "percussiveSampleIndex": 45,
+    "loop": 0,
+    "success": true,
+    "path": [
+      "..\\..\\jero\\jero\\samples\\Gold_SF2\\Organs",
+      "1-Tr_B3",
+      "Jazz B3"
+    ],
+    "key2samples": [
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.03125,
+          "keyTrigger": 0,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.03125,
+          "keyTrigger": 0,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.03125,
+          "keyTrigger": 0,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.03310822169872797,
+          "keyTrigger": 1,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.03310822169872797,
+          "keyTrigger": 1,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.03310822169872797,
+          "keyTrigger": 1,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.035076939009667914,
+          "keyTrigger": 2,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.035076939009667914,
+          "keyTrigger": 2,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.035076939009667914,
+          "keyTrigger": 2,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.03716272234383503,
+          "keyTrigger": 3,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.03716272234383503,
+          "keyTrigger": 3,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.03716272234383503,
+          "keyTrigger": 3,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.03937253280921478,
+          "keyTrigger": 4,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.03937253280921478,
+          "keyTrigger": 4,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.03937253280921478,
+          "keyTrigger": 4,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.04171374544281358,
+          "keyTrigger": 5,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.04171374544281358,
+          "keyTrigger": 5,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.04171374544281358,
+          "keyTrigger": 5,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.04419417382415922,
+          "keyTrigger": 6,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.04419417382415922,
+          "keyTrigger": 6,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.04419417382415922,
+          "keyTrigger": 6,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.04682209615239629,
+          "keyTrigger": 7,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.04682209615239629,
+          "keyTrigger": 7,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.04682209615239629,
+          "keyTrigger": 7,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.049606282874006244,
+          "keyTrigger": 8,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.049606282874006244,
+          "keyTrigger": 8,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.049606282874006244,
+          "keyTrigger": 8,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.052556025953357156,
+          "keyTrigger": 9,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.052556025953357156,
+          "keyTrigger": 9,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.052556025953357156,
+          "keyTrigger": 9,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.0556811698837712,
+          "keyTrigger": 10,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.0556811698837712,
+          "keyTrigger": 10,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.0556811698837712,
+          "keyTrigger": 10,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.05899214454260585,
+          "keyTrigger": 11,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.05899214454260585,
+          "keyTrigger": 11,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.05899214454260585,
+          "keyTrigger": 11,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.0625,
+          "keyTrigger": 12,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.0625,
+          "keyTrigger": 12,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.0625,
+          "keyTrigger": 12,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.06621644339745596,
+          "keyTrigger": 13,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.06621644339745596,
+          "keyTrigger": 13,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.06621644339745596,
+          "keyTrigger": 13,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.0701538780193358,
+          "keyTrigger": 14,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.0701538780193358,
+          "keyTrigger": 14,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.0701538780193358,
+          "keyTrigger": 14,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.07432544468767006,
+          "keyTrigger": 15,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.07432544468767006,
+          "keyTrigger": 15,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.07432544468767006,
+          "keyTrigger": 15,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.07874506561842957,
+          "keyTrigger": 16,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.07874506561842957,
+          "keyTrigger": 16,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.07874506561842957,
+          "keyTrigger": 16,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.08342749088562713,
+          "keyTrigger": 17,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.08342749088562713,
+          "keyTrigger": 17,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.08342749088562713,
+          "keyTrigger": 17,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.08838834764831845,
+          "keyTrigger": 18,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.08838834764831845,
+          "keyTrigger": 18,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.08838834764831845,
+          "keyTrigger": 18,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.09364419230479261,
+          "keyTrigger": 19,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.09364419230479261,
+          "keyTrigger": 19,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.09364419230479261,
+          "keyTrigger": 19,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.09921256574801246,
+          "keyTrigger": 20,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.09921256574801246,
+          "keyTrigger": 20,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.09921256574801246,
+          "keyTrigger": 20,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.10511205190671431,
+          "keyTrigger": 21,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.10511205190671431,
+          "keyTrigger": 21,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.10511205190671431,
+          "keyTrigger": 21,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.11136233976754242,
+          "keyTrigger": 22,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.11136233976754242,
+          "keyTrigger": 22,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.11136233976754242,
+          "keyTrigger": 22,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.11798428908521168,
+          "keyTrigger": 23,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.11798428908521168,
+          "keyTrigger": 23,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.11798428908521168,
+          "keyTrigger": 23,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.125,
+          "keyTrigger": 24,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.125,
+          "keyTrigger": 24,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.125,
+          "keyTrigger": 24,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.1324328867949119,
+          "keyTrigger": 25,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.1324328867949119,
+          "keyTrigger": 25,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.1324328867949119,
+          "keyTrigger": 25,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.1403077560386716,
+          "keyTrigger": 26,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.1403077560386716,
+          "keyTrigger": 26,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.1403077560386716,
+          "keyTrigger": 26,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.14865088937534013,
+          "keyTrigger": 27,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.14865088937534013,
+          "keyTrigger": 27,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.14865088937534013,
+          "keyTrigger": 27,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.15749013123685915,
+          "keyTrigger": 28,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.15749013123685915,
+          "keyTrigger": 28,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.15749013123685915,
+          "keyTrigger": 28,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.16685498177125427,
+          "keyTrigger": 29,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.16685498177125427,
+          "keyTrigger": 29,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.16685498177125427,
+          "keyTrigger": 29,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.1767766952966369,
+          "keyTrigger": 30,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.1767766952966369,
+          "keyTrigger": 30,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.1767766952966369,
+          "keyTrigger": 30,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.18728838460958522,
+          "keyTrigger": 31,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.18728838460958522,
+          "keyTrigger": 31,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.18728838460958522,
+          "keyTrigger": 31,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.19842513149602492,
+          "keyTrigger": 32,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.19842513149602492,
+          "keyTrigger": 32,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.19842513149602492,
+          "keyTrigger": 32,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.21022410381342863,
+          "keyTrigger": 33,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.21022410381342863,
+          "keyTrigger": 33,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.21022410381342863,
+          "keyTrigger": 33,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.22272467953508485,
+          "keyTrigger": 34,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.22272467953508485,
+          "keyTrigger": 34,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.22272467953508485,
+          "keyTrigger": 34,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.23596857817042335,
+          "keyTrigger": 35,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.23596857817042335,
+          "keyTrigger": 35,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.23596857817042335,
+          "keyTrigger": 35,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.25,
+          "keyTrigger": 36,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.25,
+          "keyTrigger": 36,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.25,
+          "keyTrigger": 36,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.2648657735898238,
+          "keyTrigger": 37,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.2648657735898238,
+          "keyTrigger": 37,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.2648657735898238,
+          "keyTrigger": 37,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.28061551207734325,
+          "keyTrigger": 38,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.28061551207734325,
+          "keyTrigger": 38,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.28061551207734325,
+          "keyTrigger": 38,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.29730177875068026,
+          "keyTrigger": 39,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.29730177875068026,
+          "keyTrigger": 39,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.29730177875068026,
+          "keyTrigger": 39,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.3149802624737183,
+          "keyTrigger": 40,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.3149802624737183,
+          "keyTrigger": 40,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.3149802624737183,
+          "keyTrigger": 40,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.3337099635425086,
+          "keyTrigger": 41,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.3337099635425086,
+          "keyTrigger": 41,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.3337099635425086,
+          "keyTrigger": 41,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.3535533905932738,
+          "keyTrigger": 42,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.3535533905932738,
+          "keyTrigger": 42,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.3535533905932738,
+          "keyTrigger": 42,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.3745767692191704,
+          "keyTrigger": 43,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.3745767692191704,
+          "keyTrigger": 43,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.3745767692191704,
+          "keyTrigger": 43,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.3968502629920499,
+          "keyTrigger": 44,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.3968502629920499,
+          "keyTrigger": 44,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.3968502629920499,
+          "keyTrigger": 44,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.42044820762685725,
+          "keyTrigger": 45,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.42044820762685725,
+          "keyTrigger": 45,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.42044820762685725,
+          "keyTrigger": 45,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.44544935907016964,
+          "keyTrigger": 46,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.44544935907016964,
+          "keyTrigger": 46,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.44544935907016964,
+          "keyTrigger": 46,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.47193715634084676,
+          "keyTrigger": 47,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.47193715634084676,
+          "keyTrigger": 47,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.47193715634084676,
+          "keyTrigger": 47,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.5,
+          "keyTrigger": 48,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.5,
+          "keyTrigger": 48,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.5,
+          "keyTrigger": 48,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.5297315471796477,
+          "keyTrigger": 49,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.5297315471796477,
+          "keyTrigger": 49,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.5297315471796477,
+          "keyTrigger": 49,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.5612310241546865,
+          "keyTrigger": 50,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.5612310241546865,
+          "keyTrigger": 50,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.5612310241546865,
+          "keyTrigger": 50,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.5946035575013605,
+          "keyTrigger": 51,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.5946035575013605,
+          "keyTrigger": 51,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.5946035575013605,
+          "keyTrigger": 51,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.6299605249474366,
+          "keyTrigger": 52,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.6299605249474366,
+          "keyTrigger": 52,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.6299605249474366,
+          "keyTrigger": 52,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.6674199270850172,
+          "keyTrigger": 53,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.6674199270850172,
+          "keyTrigger": 53,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.6674199270850172,
+          "keyTrigger": 53,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.7071067811865476,
+          "keyTrigger": 54,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.7071067811865476,
+          "keyTrigger": 54,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.7071067811865476,
+          "keyTrigger": 54,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.7491535384383408,
+          "keyTrigger": 55,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.7491535384383408,
+          "keyTrigger": 55,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.7491535384383408,
+          "keyTrigger": 55,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.7937005259840998,
+          "keyTrigger": 56,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.7937005259840998,
+          "keyTrigger": 56,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.7937005259840998,
+          "keyTrigger": 56,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.8408964152537145,
+          "keyTrigger": 57,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.8408964152537145,
+          "keyTrigger": 57,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.8408964152537145,
+          "keyTrigger": 57,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.8908987181403393,
+          "keyTrigger": 58,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.8908987181403393,
+          "keyTrigger": 58,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.8908987181403393,
+          "keyTrigger": 58,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 0.9438743126816935,
+          "keyTrigger": 59,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 0.9438743126816935,
+          "keyTrigger": 59,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 0.9438743126816935,
+          "keyTrigger": 59,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 1,
+          "keyTrigger": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 1,
+          "keyTrigger": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 1,
+          "keyTrigger": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 1.0594630943592953,
+          "keyTrigger": 61,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 1.0594630943592953,
+          "keyTrigger": 61,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 1.0594630943592953,
+          "keyTrigger": 61,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 1.122462048309373,
+          "keyTrigger": 62,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 1.122462048309373,
+          "keyTrigger": 62,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 1.122462048309373,
+          "keyTrigger": 62,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 1.189207115002721,
+          "keyTrigger": 63,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 1.189207115002721,
+          "keyTrigger": 63,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 1.189207115002721,
+          "keyTrigger": 63,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 1.2599210498948732,
+          "keyTrigger": 64,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 1.2599210498948732,
+          "keyTrigger": 64,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 1.2599210498948732,
+          "keyTrigger": 64,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 1.3348398541700344,
+          "keyTrigger": 65,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 1.3348398541700344,
+          "keyTrigger": 65,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 1.3348398541700344,
+          "keyTrigger": 65,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 1.4142135623730951,
+          "keyTrigger": 66,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 1.4142135623730951,
+          "keyTrigger": 66,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 1.4142135623730951,
+          "keyTrigger": 66,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 1.4983070768766815,
+          "keyTrigger": 67,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 1.4983070768766815,
+          "keyTrigger": 67,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 1.4983070768766815,
+          "keyTrigger": 67,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 1.5874010519681994,
+          "keyTrigger": 68,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 1.5874010519681994,
+          "keyTrigger": 68,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 1.5874010519681994,
+          "keyTrigger": 68,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 1.681792830507429,
+          "keyTrigger": 69,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 1.681792830507429,
+          "keyTrigger": 69,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 1.681792830507429,
+          "keyTrigger": 69,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 1.7817974362806785,
+          "keyTrigger": 70,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 1.7817974362806785,
+          "keyTrigger": 70,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 1.7817974362806785,
+          "keyTrigger": 70,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 1.887748625363387,
+          "keyTrigger": 71,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 1.887748625363387,
+          "keyTrigger": 71,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 1.887748625363387,
+          "keyTrigger": 71,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 2.0,
+          "keyTrigger": 72,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 2.0,
+          "keyTrigger": 72,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 2.0,
+          "keyTrigger": 72,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 2.1189261887185906,
+          "keyTrigger": 73,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 2.1189261887185906,
+          "keyTrigger": 73,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 2.1189261887185906,
+          "keyTrigger": 73,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 2.244924096618746,
+          "keyTrigger": 74,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 2.244924096618746,
+          "keyTrigger": 74,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 2.244924096618746,
+          "keyTrigger": 74,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 2.378414230005442,
+          "keyTrigger": 75,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 2.378414230005442,
+          "keyTrigger": 75,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 2.378414230005442,
+          "keyTrigger": 75,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 2.5198420997897464,
+          "keyTrigger": 76,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 2.5198420997897464,
+          "keyTrigger": 76,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 2.5198420997897464,
+          "keyTrigger": 76,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 2.6696797083400687,
+          "keyTrigger": 77,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 2.6696797083400687,
+          "keyTrigger": 77,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 2.6696797083400687,
+          "keyTrigger": 77,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 2.8284271247461903,
+          "keyTrigger": 78,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 2.8284271247461903,
+          "keyTrigger": 78,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 2.8284271247461903,
+          "keyTrigger": 78,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 2.996614153753363,
+          "keyTrigger": 79,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 2.996614153753363,
+          "keyTrigger": 79,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 2.996614153753363,
+          "keyTrigger": 79,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 3.174802103936399,
+          "keyTrigger": 80,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 3.174802103936399,
+          "keyTrigger": 80,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 3.174802103936399,
+          "keyTrigger": 80,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 3.363585661014858,
+          "keyTrigger": 81,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 3.363585661014858,
+          "keyTrigger": 81,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 3.363585661014858,
+          "keyTrigger": 81,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 3.563594872561357,
+          "keyTrigger": 82,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 3.563594872561357,
+          "keyTrigger": 82,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 3.563594872561357,
+          "keyTrigger": 82,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 3.775497250726774,
+          "keyTrigger": 83,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 3.775497250726774,
+          "keyTrigger": 83,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 3.775497250726774,
+          "keyTrigger": 83,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 4.0,
+          "keyTrigger": 84,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 4.0,
+          "keyTrigger": 84,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 4.0,
+          "keyTrigger": 84,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 4.237852377437181,
+          "keyTrigger": 85,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 4.237852377437181,
+          "keyTrigger": 85,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 4.237852377437181,
+          "keyTrigger": 85,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 4.489848193237491,
+          "keyTrigger": 86,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 4.489848193237491,
+          "keyTrigger": 86,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 4.489848193237491,
+          "keyTrigger": 86,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 4.756828460010884,
+          "keyTrigger": 87,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 4.756828460010884,
+          "keyTrigger": 87,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 4.756828460010884,
+          "keyTrigger": 87,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 5.039684199579493,
+          "keyTrigger": 88,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 5.039684199579493,
+          "keyTrigger": 88,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 5.039684199579493,
+          "keyTrigger": 88,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 5.339359416680137,
+          "keyTrigger": 89,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 5.339359416680137,
+          "keyTrigger": 89,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 5.339359416680137,
+          "keyTrigger": 89,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 5.656854249492381,
+          "keyTrigger": 90,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 5.656854249492381,
+          "keyTrigger": 90,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 5.656854249492381,
+          "keyTrigger": 90,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 5.993228307506727,
+          "keyTrigger": 91,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 5.993228307506727,
+          "keyTrigger": 91,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 5.993228307506727,
+          "keyTrigger": 91,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 6.3496042078727974,
+          "keyTrigger": 92,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 6.3496042078727974,
+          "keyTrigger": 92,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 6.3496042078727974,
+          "keyTrigger": 92,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 6.727171322029716,
+          "keyTrigger": 93,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 6.727171322029716,
+          "keyTrigger": 93,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 6.727171322029716,
+          "keyTrigger": 93,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 7.127189745122715,
+          "keyTrigger": 94,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 7.127189745122715,
+          "keyTrigger": 94,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 7.127189745122715,
+          "keyTrigger": 94,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 7.550994501453547,
+          "keyTrigger": 95,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 7.550994501453547,
+          "keyTrigger": 95,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 7.550994501453547,
+          "keyTrigger": 95,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 8.0,
+          "keyTrigger": 96,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 8.0,
+          "keyTrigger": 96,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 8.0,
+          "keyTrigger": 96,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 8.475704754874362,
+          "keyTrigger": 97,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 8.475704754874362,
+          "keyTrigger": 97,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 8.475704754874362,
+          "keyTrigger": 97,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 8.979696386474982,
+          "keyTrigger": 98,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 8.979696386474982,
+          "keyTrigger": 98,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 8.979696386474982,
+          "keyTrigger": 98,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 9.513656920021768,
+          "keyTrigger": 99,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 9.513656920021768,
+          "keyTrigger": 99,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 9.513656920021768,
+          "keyTrigger": 99,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 10.079368399158986,
+          "keyTrigger": 100,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 10.079368399158986,
+          "keyTrigger": 100,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 10.079368399158986,
+          "keyTrigger": 100,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 10.678718833360273,
+          "keyTrigger": 101,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 10.678718833360273,
+          "keyTrigger": 101,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 10.678718833360273,
+          "keyTrigger": 101,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 11.313708498984761,
+          "keyTrigger": 102,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 11.313708498984761,
+          "keyTrigger": 102,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 11.313708498984761,
+          "keyTrigger": 102,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 11.986456615013454,
+          "keyTrigger": 103,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 11.986456615013454,
+          "keyTrigger": 103,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 11.986456615013454,
+          "keyTrigger": 103,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 12.699208415745595,
+          "keyTrigger": 104,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 12.699208415745595,
+          "keyTrigger": 104,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 12.699208415745595,
+          "keyTrigger": 104,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 13.454342644059432,
+          "keyTrigger": 105,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 13.454342644059432,
+          "keyTrigger": 105,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 13.454342644059432,
+          "keyTrigger": 105,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 14.25437949024543,
+          "keyTrigger": 106,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 14.25437949024543,
+          "keyTrigger": 106,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 14.25437949024543,
+          "keyTrigger": 106,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 15.101989002907095,
+          "keyTrigger": 107,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 15.101989002907095,
+          "keyTrigger": 107,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 15.101989002907095,
+          "keyTrigger": 107,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 16.0,
+          "keyTrigger": 108,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 16.0,
+          "keyTrigger": 108,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 16.0,
+          "keyTrigger": 108,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 16.95140950974872,
+          "keyTrigger": 109,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 16.95140950974872,
+          "keyTrigger": 109,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 16.95140950974872,
+          "keyTrigger": 109,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 17.959392772949972,
+          "keyTrigger": 110,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 17.959392772949972,
+          "keyTrigger": 110,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 17.959392772949972,
+          "keyTrigger": 110,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 19.027313840043536,
+          "keyTrigger": 111,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 19.027313840043536,
+          "keyTrigger": 111,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 19.027313840043536,
+          "keyTrigger": 111,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 20.158736798317967,
+          "keyTrigger": 112,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 20.158736798317967,
+          "keyTrigger": 112,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 20.158736798317967,
+          "keyTrigger": 112,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 21.357437666720553,
+          "keyTrigger": 113,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 21.357437666720553,
+          "keyTrigger": 113,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 21.357437666720553,
+          "keyTrigger": 113,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 22.627416997969522,
+          "keyTrigger": 114,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 22.627416997969522,
+          "keyTrigger": 114,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 22.627416997969522,
+          "keyTrigger": 114,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 23.9729132300269,
+          "keyTrigger": 115,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 23.9729132300269,
+          "keyTrigger": 115,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 23.9729132300269,
+          "keyTrigger": 115,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 25.398416831491197,
+          "keyTrigger": 116,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 25.398416831491197,
+          "keyTrigger": 116,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 25.398416831491197,
+          "keyTrigger": 116,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 26.908685288118864,
+          "keyTrigger": 117,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 26.908685288118864,
+          "keyTrigger": 117,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 26.908685288118864,
+          "keyTrigger": 117,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 28.508758980490853,
+          "keyTrigger": 118,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 28.508758980490853,
+          "keyTrigger": 118,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 28.508758980490853,
+          "keyTrigger": 118,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 30.203978005814196,
+          "keyTrigger": 119,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 30.203978005814196,
+          "keyTrigger": 119,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 30.203978005814196,
+          "keyTrigger": 119,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 32.0,
+          "keyTrigger": 120,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 32.0,
+          "keyTrigger": 120,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 32.0,
+          "keyTrigger": 120,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 33.90281901949744,
+          "keyTrigger": 121,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 33.90281901949744,
+          "keyTrigger": 121,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 33.90281901949744,
+          "keyTrigger": 121,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 35.918785545899944,
+          "keyTrigger": 122,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 35.918785545899944,
+          "keyTrigger": 122,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 35.918785545899944,
+          "keyTrigger": 122,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 38.05462768008707,
+          "keyTrigger": 123,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 38.05462768008707,
+          "keyTrigger": 123,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 38.05462768008707,
+          "keyTrigger": 123,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 40.317473596635935,
+          "keyTrigger": 124,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 40.317473596635935,
+          "keyTrigger": 124,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 40.317473596635935,
+          "keyTrigger": 124,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 42.71487533344111,
+          "keyTrigger": 125,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 42.71487533344111,
+          "keyTrigger": 125,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 42.71487533344111,
+          "keyTrigger": 125,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 45.254833995939045,
+          "keyTrigger": 126,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 45.254833995939045,
+          "keyTrigger": 126,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 45.254833995939045,
+          "keyTrigger": 126,
+          "targetKeyCenter": 60
+        }
+      ],
+      [
+        {
+          "sampleNo": 0,
+          "pitchBend": 47.9458264600538,
+          "keyTrigger": 127,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 1,
+          "pitchBend": 47.9458264600538,
+          "keyTrigger": 127,
+          "targetKeyCenter": 60
+        },
+        {
+          "sampleNo": 2,
+          "pitchBend": 47.9458264600538,
+          "keyTrigger": 127,
+          "targetKeyCenter": 60
+        }
+      ]
+    ],
+    "samples": [
+      {
+        "sampleNo": 0,
+        "channels": 1,
+        "sample_rate": 44100,
+        "sample": "jazz1_c4",
+        "lengthSamples": 11252,
+        "audioFormat": "mp3",
+        "audioData": "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",
+        "pitch_keycenter": 60,
+        "gain": 2.847781688610785,
+        "samplesLoadPoint": ""
+      },
+      {
+        "sampleNo": 1,
+        "channels": 1,
+        "sample_rate": 44100,
+        "sample": "jazz1_c5",
+        "lengthSamples": 7488,
+        "audioFormat": "mp3",
+        "audioData": "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",
+        "pitch_keycenter": 60,
+        "gain": 2.7492239281818946,
+        "samplesLoadPoint": ""
+      },
+      {
+        "sampleNo": 2,
+        "channels": 1,
+        "sample_rate": 44100,
+        "sample": "jazz1_c4",
+        "lengthSamples": 11252,
+        "audioFormat": "mp3",
+        "audioData": "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",
+        "pitch_keycenter": 60,
+        "gain": 2.847781688610785,
+        "samplesLoadPoint": ""
+      }
+    ],
+    "outFilename": "..\\..\\jero\\jero\\samples\\Gold_SF2\\Organs\\1-Tr_B3.json"
+  }
+}

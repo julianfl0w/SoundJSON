@@ -28,7 +28,7 @@ def toFile(outFilename, outjson):
     outjson = json.dumps(outjson, indent=2)
     os.makedirs(directory, exist_ok=True)
     with open(outFilename, 'w+') as f:
-        f.write(json.dumps(outjson, indent=2))
+        f.write(outjson)
     print(f"wrote {outFilename}")
 
 def convertFile(infilename, compress=True, force=False, stopOnFail=True):

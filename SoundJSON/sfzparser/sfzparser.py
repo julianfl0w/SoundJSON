@@ -8,7 +8,6 @@ import os
 import sys
 from collections import OrderedDict
 from io import open
-from pedalboard import *
 
 sys.path.insert(
     0, os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
