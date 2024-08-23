@@ -9,6 +9,16 @@
 <body>
 
     <div id="sitemap"></div>
+
+    <!-- Options div -->
+    <div id="options">
+        <label for="transpose">Transpose (semitones):</label>
+        <input type="number" id="transpose" name="transpose" value="0" min="-24" max="24">
+
+        <button id="playMidiButton">Play Fairy Fountain</button>
+
+    </div>
+
     <div id="keyboard">
         <div class="key white-key" data-note="72">C</div>
         <div class="key white-key" data-note="71">B</div>
@@ -24,7 +34,8 @@
         <div class="key black-key" data-note="61">C#/Db</div>
         <div class="key white-key" data-note="60">C</div>
     </div>
-    <script src="displayPatches.js"></script>
+
+    <script src="interface.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@tonejs/midi@2.0.27"></script>
     <script src="sampler.js"></script>
 </body>

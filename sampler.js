@@ -1,5 +1,5 @@
 const audioContext = new (window.AudioContext || window.webkitAudioContext)();
-const samples = [];
+var samples = [];
 var key2samples = [];
 
 const qwerty_c_major_dict = {
@@ -41,9 +41,12 @@ const qwerty_c_major_dict = {
     "U": 94,  // A sharp/B flat (two octaves up)
 };
 
-let transpose = 0;
+var transpose = 0;
 
 async function loadSamples(jsonData) {
+    samples = [];
+    key2samples = [];
+
     for (let key in jsonData) {
         const sfzData = jsonData[key];
         const samplesList = sfzData.samples;
@@ -56,7 +59,7 @@ async function loadSamples(jsonData) {
             const audioBuffer = await audioContext.decodeAudioData(audioData);
             samples.push({
                 buffer: audioBuffer,
-                gain: sampleData.gain * 0.3,
+                gain: sampleData.gain * 0.01,
                 sampleFilename: sampleData.sampleFilename
             });
         }
@@ -140,7 +143,7 @@ async function playMidiFile(midiUrl) {
 
     midi.tracks.forEach(track => {
         track.notes.forEach(note => {
-            const pitch = note.midi - 18; // Adjust pitch based on your mapping
+            const pitch = note.midi; // Adjust pitch based on your mapping
             const velocity = note.velocity; // Velocity is already in [0, 1] range
             const time = note.time * 1000; // Convert time to milliseconds
             setTimeout(() => {
@@ -151,6 +154,3 @@ async function playMidiFile(midiUrl) {
         });
     });
 }
-
-// Example usage: load and play a MIDI file
-// playMidiFile('fairyfountain.mid');

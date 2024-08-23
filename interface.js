@@ -48,4 +48,18 @@ function renderSiteMap(jsonData, container, parentKey = "") {
     container.appendChild(ul);
 }
 
+
 document.addEventListener('DOMContentLoaded', fetchSiteMap);
+
+// Example usage: load and play a MIDI file
+//
+document.getElementById('transpose').addEventListener('input', function() {
+    transpose = parseInt(this.value, 10);
+    // Apply transpose logic to your notes, adjusting their pitch based on transposeValue
+});
+
+
+// JavaScript to handle the button click
+document.getElementById('playMidiButton').addEventListener('click', function() {
+    playMidiFile('fairyfountain.mid');
+});
